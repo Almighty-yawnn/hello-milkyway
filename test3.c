@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	unsigned char j;
+	char j;
 
-	j = 255;
+	j = 127;
 	j = j + 10;
 
 	printf("%u\n", j);
